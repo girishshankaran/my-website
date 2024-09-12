@@ -9,7 +9,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   title: 'Cisco Testing Documentation Hub',
-  tagline: 'A one stopshop for your docs',
+  tagline: 'A one-stop shop for your docs',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
