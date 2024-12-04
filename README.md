@@ -1,6 +1,6 @@
 # Website
 
-This is also  git integration testing for Jira
+This is is another  git integration testing for Jira
 
 This website is developed using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
