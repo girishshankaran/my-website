@@ -2,7 +2,7 @@
 
 This is also  git integration testing for Jira
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This website is developed using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
