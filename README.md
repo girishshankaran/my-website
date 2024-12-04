@@ -1,8 +1,10 @@
-# Website
+# My Website
 
 Testing Jira Automation
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+This is is another  git integration testing for Jira
+
+This website is developed using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
 ### Installation
 
