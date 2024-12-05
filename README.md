@@ -2,7 +2,7 @@
 
 Testing Jira Automation
 
-This is the  git integration testing for Jira
+This is  th  git integration testing for Jira
 
 This website is developed by using [Docusaurus](https://docusaurus.io/), a modern static website generator.
 
